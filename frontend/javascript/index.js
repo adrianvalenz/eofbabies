@@ -3,6 +3,7 @@ import "index.css"
 import "backgrounds.css"
 
 // sticky header v3
+/*
 if (!!document.getElementById("myHeader")) {
 	window.onscroll = function() {getStuck()};
 
@@ -16,6 +17,7 @@ if (!!document.getElementById("myHeader")) {
 		}
 	}
 }
+*/
 
 // for alpinejs rendering svg
 (function(){ 

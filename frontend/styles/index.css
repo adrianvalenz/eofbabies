@@ -125,7 +125,13 @@ hr:after {
     @apply bg-light-grey;
 }
 
-/* custom class */
+/* custom ids */
+
+#myHeader {
+  position: sticky;
+  top: 0;
+}
+/* custom classes */
 
 .has-drop-cap:not(:focus):first-letter {
     float: left;
