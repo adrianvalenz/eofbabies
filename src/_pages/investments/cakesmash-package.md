@@ -1,7 +1,7 @@
 ---
 layout: package
 title: Cake Smash sessions
-subtitle: Buy only what you love
+subtitle: Session fee $150
 permalink: /investments/cakesmash/
 ---
 

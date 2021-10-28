@@ -1,7 +1,7 @@
 ---
 layout: package
 title: Newborn sessions
-subtitle: Buy only what you love
+subtitle: Session fee $150
 permalink: /investments/newborn/
 ---
 
