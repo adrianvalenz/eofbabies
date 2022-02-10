@@ -20,7 +20,7 @@ permalink: /investments/newborn/
   </div>
   <ul>
     <li>Baby Only</li>
-    <li>1 hour photography time</li>
+    <li>1 hour</li>
     <li>2 set ups</li>
     <li>5 digital images</li>
     <li>Additional image $30</li>
@@ -33,7 +33,7 @@ permalink: /investments/newborn/
   </div>
   <ul>
     <li>Baby and sibling only</li>
-    <li>Up to 2 hours photography time</li>
+    <li>Up to 2 hours</li>
     <li>3 set ups</li>
     <li>10 digital images</li>
     <li>Additional image $25</li>
@@ -45,7 +45,7 @@ permalink: /investments/newborn/
 </div>
 <ul>
   <li>Baby, sibling and/or parents</li>
-  <li>Up to 3 hour photography time</li>
+  <li>Up to 3 hours</li>
   <li>4 set ups</li>
   <li>15 images</li>
   <li>Each additional image is $15</li>
